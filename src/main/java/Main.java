@@ -8,9 +8,7 @@ public class Main {
         String tekst_v3 = "Witaj w świecie 3";
 
         System.out.println(tekst);
-        System.out.println(tekst_2);
 
-        System.out.println(tekst_v3);
 
 
 
