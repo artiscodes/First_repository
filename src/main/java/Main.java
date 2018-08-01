@@ -10,6 +10,10 @@ public class Main {
         System.out.println(tekst);
         System.out.println(tekst_2);
 
+        System.out.println(tekst_v3);
+
+
+
     }
 
 
